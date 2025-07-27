@@ -4,7 +4,7 @@
 >
 > GitHub 활동(커밋·이슈·PR)을 분석해 **포트폴리오**를 만들어 주는 chrome web 애플리케이션입니다.
 
-[![Stars](https://img.shields.io/github/stars/KWCapstoneGitFolio/realGitFolio?style=social)](https://github.com/KWCapstoneGitFolio/realGitFolio/stargazers)
+
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python)
 ![Django](https://img.shields.io/badge/Django-4.x-green?logo=django)
 ![Last commit](https://img.shields.io/github/last-commit/KWCapstoneGitFolio/realGitFolio)
