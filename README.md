@@ -1,5 +1,5 @@
 # realGitFolio
-
+노션:  https://www.notion.so/GitFolio-1baee81117f1809fb086d04a5f916e81?source=copy_link
 > **GitHub Repository → Developer Portfolio 자동 생성기**
 >
 > GitHub 활동(커밋·이슈·PR)을 분석해 **포트폴리오**를 만들어 주는 chrome web 애플리케이션입니다.
@@ -120,3 +120,4 @@ realGitFolio/
 ## 실행할 때 주의사항
 
 * `.env`에서 `GITHUB_TOKEN`, `MYSQL_PASSWORD`, `ANTHROPIC_API_KEY` 부분을 자신이 설정한 키나 데이터베이스 패스워드로 바꿔주시기 바랍니다.
+
